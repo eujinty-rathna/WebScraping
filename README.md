@@ -3,4 +3,4 @@ This repository contains my web scraping projects using Scrapy, Selenium, and Be
 
 | Domain name   | spider name   |product count |
 | ---- | ---- |----|
-| www.aldoshoes.in|[aldo](https://github.com/eujinty-rathna/WebScraping/blob/main/aldoshoes/spiders/aldo.py)|1173|
+| www.aldoshoes.in|[aldo](https://github.com/eujinty-rathna/WebScraping/blob/main/aldoshoes/spiders/aldo.py)|1167|
