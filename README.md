@@ -6,6 +6,7 @@ This repository contains my web scraping projects using Scrapy, Selenium, and Be
 | Domain name   | spider name   |product count |
 | ---- | ---- |----|
 | www.aldoshoes.in|[aldo](https://github.com/eujinty-rathna/WebScraping/blob/main/aldoshoes/aldoshoes/spiders/aldo.py)|1167|
+|https://redtape.com/|[redtape](https://github.com/eujinty-rathna/WebScraping/blob/main/redtape/redtape/spiders/redtapeshoes.py)|704|
 
 ## products scraped using other libraries
 |Domain Name | link to script |product count | run time|
